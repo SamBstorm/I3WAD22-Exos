@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-Conversion", "Exo-Conversion\Exo-Conversion.csproj", "{D1F92429-063E-43CB-8DC9-8F10719FCF25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-Conversion", "Exo-Conversion\Exo-Conversion.csproj", "{D1F92429-063E-43CB-8DC9-8F10719FCF25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-PairImpair", "Exo-PairImpair\Exo-PairImpair.csproj", "{50D20C6A-1B56-4DDE-B17F-B19B8E90629D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-PierrePapierCiseaux", "Exo-PierrePapierCiseaux\Exo-PierrePapierCiseaux.csproj", "{1E548076-D18F-4875-BDCB-5330990AE186}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D1F92429-063E-43CB-8DC9-8F10719FCF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1F92429-063E-43CB-8DC9-8F10719FCF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1F92429-063E-43CB-8DC9-8F10719FCF25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D20C6A-1B56-4DDE-B17F-B19B8E90629D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D20C6A-1B56-4DDE-B17F-B19B8E90629D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D20C6A-1B56-4DDE-B17F-B19B8E90629D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D20C6A-1B56-4DDE-B17F-B19B8E90629D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E548076-D18F-4875-BDCB-5330990AE186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E548076-D18F-4875-BDCB-5330990AE186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E548076-D18F-4875-BDCB-5330990AE186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E548076-D18F-4875-BDCB-5330990AE186}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
