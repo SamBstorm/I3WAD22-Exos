@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-PairImpair", "Exo-PairI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-PierrePapierCiseaux", "Exo-PierrePapierCiseaux\Exo-PierrePapierCiseaux.csproj", "{1E548076-D18F-4875-BDCB-5330990AE186}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-Divisions", "Exo-Divisions\Exo-Divisions.csproj", "{E64866AD-1EEB-47C3-AD5E-663F924DB642}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-Divisions", "Exo-Divisions\Exo-Divisions.csproj", "{E64866AD-1EEB-47C3-AD5E-663F924DB642}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-BBAN", "Exo-BBAN\Exo-BBAN.csproj", "{CCCCA64F-CDC9-431B-BF5D-6DE3437ACB52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-BBAN", "Exo-BBAN\Exo-BBAN.csproj", "{CCCCA64F-CDC9-431B-BF5D-6DE3437ACB52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-IBAN", "Exo-IBAN\Exo-IBAN.csproj", "{E0F8C472-0395-49F7-BD3D-288A19806B94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CCCCA64F-CDC9-431B-BF5D-6DE3437ACB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCCCA64F-CDC9-431B-BF5D-6DE3437ACB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCCCA64F-CDC9-431B-BF5D-6DE3437ACB52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F8C472-0395-49F7-BD3D-288A19806B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F8C472-0395-49F7-BD3D-288A19806B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F8C472-0395-49F7-BD3D-288A19806B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F8C472-0395-49F7-BD3D-288A19806B94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
