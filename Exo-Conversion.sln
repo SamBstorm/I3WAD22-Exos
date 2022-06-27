@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-Divisions", "Exo-Divisi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-BBAN", "Exo-BBAN\Exo-BBAN.csproj", "{CCCCA64F-CDC9-431B-BF5D-6DE3437ACB52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-IBAN", "Exo-IBAN\Exo-IBAN.csproj", "{E0F8C472-0395-49F7-BD3D-288A19806B94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-IBAN", "Exo-IBAN\Exo-IBAN.csproj", "{E0F8C472-0395-49F7-BD3D-288A19806B94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CorrectionExosBoucles", "CorrectionExosBoucles\CorrectionExosBoucles.csproj", "{41228ED0-54CA-403C-8E5F-80EDFA9D5CA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E0F8C472-0395-49F7-BD3D-288A19806B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0F8C472-0395-49F7-BD3D-288A19806B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0F8C472-0395-49F7-BD3D-288A19806B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41228ED0-54CA-403C-8E5F-80EDFA9D5CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41228ED0-54CA-403C-8E5F-80EDFA9D5CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41228ED0-54CA-403C-8E5F-80EDFA9D5CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41228ED0-54CA-403C-8E5F-80EDFA9D5CA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
