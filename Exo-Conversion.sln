@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-AdditionEcrite", "Exo-A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-NbPremierOpti", "Exo-NbPremierOpti\Exo-NbPremierOpti.csproj", "{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-MatricePoint", "Exo-MatricePoint\Exo-MatricePoint.csproj", "{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
