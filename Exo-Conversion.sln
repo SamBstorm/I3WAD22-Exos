@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-CodeCesar", "Exo-CodeCe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-AdditionEcrite", "Exo-AdditionEcrite\Exo-AdditionEcrite.csproj", "{A49D9F25-9DF3-49E8-A007-305F4C69283C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-NbPremierOpti", "Exo-NbPremierOpti\Exo-NbPremierOpti.csproj", "{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A49D9F25-9DF3-49E8-A007-305F4C69283C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A49D9F25-9DF3-49E8-A007-305F4C69283C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A49D9F25-9DF3-49E8-A007-305F4C69283C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
