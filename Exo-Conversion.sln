@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-TodoList", "Exo-TodoLis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-CodeCesar", "Exo-CodeCesar\Exo-CodeCesar.csproj", "{2A7F16F4-4D40-4DC7-9269-D2802FB3706C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-AdditionEcrite", "Exo-AdditionEcrite\Exo-AdditionEcrite.csproj", "{A49D9F25-9DF3-49E8-A007-305F4C69283C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{2A7F16F4-4D40-4DC7-9269-D2802FB3706C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A7F16F4-4D40-4DC7-9269-D2802FB3706C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A7F16F4-4D40-4DC7-9269-D2802FB3706C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A49D9F25-9DF3-49E8-A007-305F4C69283C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49D9F25-9DF3-49E8-A007-305F4C69283C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49D9F25-9DF3-49E8-A007-305F4C69283C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49D9F25-9DF3-49E8-A007-305F4C69283C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
