@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CorrectionExosBoucles", "Co
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-TodoList", "Exo-TodoList\Exo-TodoList.csproj", "{62CEBDF6-4533-44C6-9825-7B06EE851674}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-CodeCesar", "Exo-CodeCesar\Exo-CodeCesar.csproj", "{2A7F16F4-4D40-4DC7-9269-D2802FB3706C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-CodeCesar", "Exo-CodeCesar\Exo-CodeCesar.csproj", "{2A7F16F4-4D40-4DC7-9269-D2802FB3706C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-AdditionEcrite", "Exo-AdditionEcrite\Exo-AdditionEcrite.csproj", "{A49D9F25-9DF3-49E8-A007-305F4C69283C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-AdditionEcrite", "Exo-AdditionEcrite\Exo-AdditionEcrite.csproj", "{A49D9F25-9DF3-49E8-A007-305F4C69283C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-NbPremierOpti", "Exo-NbPremierOpti\Exo-NbPremierOpti.csproj", "{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-NbPremierOpti", "Exo-NbPremierOpti\Exo-NbPremierOpti.csproj", "{907AFFC7-84D8-44B1-AEFA-D7A421DA54D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-MatricePoint", "Exo-MatricePoint\Exo-MatricePoint.csproj", "{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-MatricePoint", "Exo-MatricePoint\Exo-MatricePoint.csproj", "{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-CelsiusFahrenheit", "Exo-CelsiusFahrenheit\Exo-CelsiusFahrenheit.csproj", "{E455305D-761B-4A07-878F-3FD36897CBAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEDDDD57-2173-4DF4-B4EB-7A194BD4E7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E455305D-761B-4A07-878F-3FD36897CBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E455305D-761B-4A07-878F-3FD36897CBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E455305D-761B-4A07-878F-3FD36897CBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E455305D-761B-4A07-878F-3FD36897CBAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
