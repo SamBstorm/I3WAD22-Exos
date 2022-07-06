@@ -24,8 +24,16 @@ namespace Exo_MatricePoint
                     if (tab[row, col] is null) Console.Write("\t");
                     else
                     {
+                        //Version casting (Car on a testé la nullité)
                         Point p = (Point)tab[row, col];
                         Console.Write($"X : {p.x} - Y : {p.y}");
+                        /*
+                        //Version test d'accès au membre (l'accès aux membres à l'aide de ?. permet de vérifier si le membre est accessible en cas de null - X et Y ne sont pas accessible dans un null)
+                        Console.Write($"X : {tab[row,col]?.x} - Y : {tab[row, col]?.y}");
+                        //Version test d'accès au membre (avec une variable pour mieux lire le code 😅)
+                        Point? pNull = tab[row, col];
+                        Console.Write($"X : {pNull?.x} - Y : {pNull?.y}");
+                        */
                     }
                 }
                 Console.WriteLine();
