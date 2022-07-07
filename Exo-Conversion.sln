@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo-CelsiusFahrenheit", "Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-EquationSecondDegre", "Exo-EquationSecondDegre\Exo-EquationSecondDegre.csproj", "{A4CDC09E-D6E0-4C85-91B1-6630308585AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo-Carte", "Exo-Carte\Exo-Carte.csproj", "{95594771-3FC3-482A-A115-FD8D1FEF80B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{A4CDC09E-D6E0-4C85-91B1-6630308585AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4CDC09E-D6E0-4C85-91B1-6630308585AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4CDC09E-D6E0-4C85-91B1-6630308585AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95594771-3FC3-482A-A115-FD8D1FEF80B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95594771-3FC3-482A-A115-FD8D1FEF80B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95594771-3FC3-482A-A115-FD8D1FEF80B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95594771-3FC3-482A-A115-FD8D1FEF80B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
